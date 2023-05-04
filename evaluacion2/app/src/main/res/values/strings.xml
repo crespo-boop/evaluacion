@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">evaluacion</string>
+
+
+    <string name="tituloComida1">Ceviche</string>
+    <string name="tituloComida2">Empanadas</string>
+    <string name="tituloComida3">Pasta</string>
+    <string name="tituloComida4">Encebollado</string>
+    <string name="tituloComida5">Ramen</string>
+
+</resources>
